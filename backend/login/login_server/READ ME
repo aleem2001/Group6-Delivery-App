@@ -1,0 +1,6 @@
+As "node_modules" folder cannot be uploaded simply:
+          1. clone your repository
+          2. run "npm -i"
+          3. ng serve
+          
+          or google what to do if the folder cannot be uploaded
